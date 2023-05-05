@@ -1,4 +1,0 @@
-such as intrusion detection and prevention systems (IDPS)
-DDoS
-ASG
-AIP
